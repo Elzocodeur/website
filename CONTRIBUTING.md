@@ -24,4 +24,4 @@ If you worked on project similar like this it's a good debut.
 
 Commit your changes to your fork of this repo, send a _PR_ that contains detailed information about your change.
 
-We'll review it, and decide whether it should be merged ✅
+We'll review it, and decide whether it should be merged ✅ or not. 🙏
